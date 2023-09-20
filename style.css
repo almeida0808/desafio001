@@ -1,5 +1,5 @@
 body *{
-margin-top: 64px;
+margin-top: 32px;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
 
@@ -64,7 +64,7 @@ margin: 64px auto 16px;
 #wave{
     margin-top: 40px;
 
-    bottom: 0px;
+    bottom: 0;
     width: 100%;
 left: 0px;
 right: 0px;
